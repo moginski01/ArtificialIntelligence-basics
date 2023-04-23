@@ -1,0 +1,711 @@
+Wczytywanie pliku
+(40, 784)
+(10, 40)
+Zakres wag: [-0.1, 0.1]
+alpha = 0.005
+Treningowe Dane:
+Procent poprawnych: numer serii:  0
+15.1
+Procent poprawnych: numer serii:  1
+25.7
+Procent poprawnych: numer serii:  2
+33.800000000000004
+Procent poprawnych: numer serii:  3
+38.0
+Procent poprawnych: numer serii:  4
+40.5
+Procent poprawnych: numer serii:  5
+43.4
+Procent poprawnych: numer serii:  6
+45.300000000000004
+Procent poprawnych: numer serii:  7
+44.5
+Procent poprawnych: numer serii:  8
+49.0
+Procent poprawnych: numer serii:  9
+51.5
+Procent poprawnych: numer serii:  10
+50.3
+Procent poprawnych: numer serii:  11
+53.6
+Procent poprawnych: numer serii:  12
+55.7
+Procent poprawnych: numer serii:  13
+57.199999999999996
+Procent poprawnych: numer serii:  14
+58.4
+Procent poprawnych: numer serii:  15
+56.49999999999999
+Procent poprawnych: numer serii:  16
+60.0
+Procent poprawnych: numer serii:  17
+58.4
+Procent poprawnych: numer serii:  18
+57.3
+Procent poprawnych: numer serii:  19
+59.8
+Procent poprawnych: numer serii:  20
+60.5
+Procent poprawnych: numer serii:  21
+60.199999999999996
+Procent poprawnych: numer serii:  22
+61.0
+Procent poprawnych: numer serii:  23
+60.8
+Procent poprawnych: numer serii:  24
+64.7
+Procent poprawnych: numer serii:  25
+60.9
+Procent poprawnych: numer serii:  26
+63.1
+Procent poprawnych: numer serii:  27
+64.9
+Procent poprawnych: numer serii:  28
+64.1
+Procent poprawnych: numer serii:  29
+63.800000000000004
+Procent poprawnych: numer serii:  30
+63.6
+Procent poprawnych: numer serii:  31
+65.0
+Procent poprawnych: numer serii:  32
+64.4
+Procent poprawnych: numer serii:  33
+65.7
+Procent poprawnych: numer serii:  34
+65.3
+Procent poprawnych: numer serii:  35
+67.30000000000001
+Procent poprawnych: numer serii:  36
+66.7
+Procent poprawnych: numer serii:  37
+65.2
+Procent poprawnych: numer serii:  38
+68.30000000000001
+Procent poprawnych: numer serii:  39
+67.4
+Procent poprawnych: numer serii:  40
+67.60000000000001
+Procent poprawnych: numer serii:  41
+67.30000000000001
+Procent poprawnych: numer serii:  42
+67.60000000000001
+Procent poprawnych: numer serii:  43
+68.5
+Procent poprawnych: numer serii:  44
+70.1
+Procent poprawnych: numer serii:  45
+67.60000000000001
+Procent poprawnych: numer serii:  46
+69.1
+Procent poprawnych: numer serii:  47
+67.9
+Procent poprawnych: numer serii:  48
+70.0
+Procent poprawnych: numer serii:  49
+70.0
+Procent poprawnych: numer serii:  50
+71.8
+Procent poprawnych: numer serii:  51
+67.5
+Procent poprawnych: numer serii:  52
+69.89999999999999
+Procent poprawnych: numer serii:  53
+70.6
+Procent poprawnych: numer serii:  54
+71.7
+Procent poprawnych: numer serii:  55
+72.6
+Procent poprawnych: numer serii:  56
+70.89999999999999
+Procent poprawnych: numer serii:  57
+72.6
+Procent poprawnych: numer serii:  58
+71.7
+Procent poprawnych: numer serii:  59
+73.1
+Procent poprawnych: numer serii:  60
+72.6
+Procent poprawnych: numer serii:  61
+73.4
+Procent poprawnych: numer serii:  62
+72.39999999999999
+Procent poprawnych: numer serii:  63
+72.6
+Procent poprawnych: numer serii:  64
+73.2
+Procent poprawnych: numer serii:  65
+74.0
+Procent poprawnych: numer serii:  66
+74.2
+Procent poprawnych: numer serii:  67
+71.3
+Procent poprawnych: numer serii:  68
+72.2
+Procent poprawnych: numer serii:  69
+73.4
+Procent poprawnych: numer serii:  70
+75.0
+Procent poprawnych: numer serii:  71
+72.8
+Procent poprawnych: numer serii:  72
+74.5
+Procent poprawnych: numer serii:  73
+75.6
+Procent poprawnych: numer serii:  74
+74.4
+Procent poprawnych: numer serii:  75
+75.1
+Procent poprawnych: numer serii:  76
+73.0
+Procent poprawnych: numer serii:  77
+71.8
+Procent poprawnych: numer serii:  78
+75.1
+Procent poprawnych: numer serii:  79
+76.1
+Procent poprawnych: numer serii:  80
+75.9
+Procent poprawnych: numer serii:  81
+73.8
+Procent poprawnych: numer serii:  82
+75.3
+Procent poprawnych: numer serii:  83
+73.8
+Procent poprawnych: numer serii:  84
+74.7
+Procent poprawnych: numer serii:  85
+73.6
+Procent poprawnych: numer serii:  86
+74.7
+Procent poprawnych: numer serii:  87
+76.0
+Procent poprawnych: numer serii:  88
+74.3
+Procent poprawnych: numer serii:  89
+76.0
+Procent poprawnych: numer serii:  90
+76.4
+Procent poprawnych: numer serii:  91
+74.1
+Procent poprawnych: numer serii:  92
+74.6
+Procent poprawnych: numer serii:  93
+75.5
+Procent poprawnych: numer serii:  94
+76.8
+Procent poprawnych: numer serii:  95
+78.60000000000001
+Procent poprawnych: numer serii:  96
+76.2
+Procent poprawnych: numer serii:  97
+77.60000000000001
+Procent poprawnych: numer serii:  98
+76.5
+Procent poprawnych: numer serii:  99
+75.6
+Procent poprawnych: numer serii:  100
+78.10000000000001
+Procent poprawnych: numer serii:  101
+75.6
+Procent poprawnych: numer serii:  102
+77.10000000000001
+Procent poprawnych: numer serii:  103
+75.9
+Procent poprawnych: numer serii:  104
+78.3
+Procent poprawnych: numer serii:  105
+77.60000000000001
+Procent poprawnych: numer serii:  106
+78.3
+Procent poprawnych: numer serii:  107
+78.8
+Procent poprawnych: numer serii:  108
+76.5
+Procent poprawnych: numer serii:  109
+76.2
+Procent poprawnych: numer serii:  110
+77.4
+Procent poprawnych: numer serii:  111
+79.0
+Procent poprawnych: numer serii:  112
+78.10000000000001
+Procent poprawnych: numer serii:  113
+77.3
+Procent poprawnych: numer serii:  114
+78.3
+Procent poprawnych: numer serii:  115
+76.9
+Procent poprawnych: numer serii:  116
+77.10000000000001
+Procent poprawnych: numer serii:  117
+78.10000000000001
+Procent poprawnych: numer serii:  118
+77.0
+Procent poprawnych: numer serii:  119
+79.9
+Procent poprawnych: numer serii:  120
+76.4
+Procent poprawnych: numer serii:  121
+79.0
+Procent poprawnych: numer serii:  122
+77.2
+Procent poprawnych: numer serii:  123
+77.4
+Procent poprawnych: numer serii:  124
+78.4
+Procent poprawnych: numer serii:  125
+77.60000000000001
+Procent poprawnych: numer serii:  126
+78.60000000000001
+Procent poprawnych: numer serii:  127
+80.10000000000001
+Procent poprawnych: numer serii:  128
+78.5
+Procent poprawnych: numer serii:  129
+81.2
+Procent poprawnych: numer serii:  130
+78.3
+Procent poprawnych: numer serii:  131
+77.9
+Procent poprawnych: numer serii:  132
+79.4
+Procent poprawnych: numer serii:  133
+79.60000000000001
+Procent poprawnych: numer serii:  134
+81.0
+Procent poprawnych: numer serii:  135
+78.3
+Procent poprawnych: numer serii:  136
+78.9
+Procent poprawnych: numer serii:  137
+79.5
+Procent poprawnych: numer serii:  138
+80.60000000000001
+Procent poprawnych: numer serii:  139
+78.60000000000001
+Procent poprawnych: numer serii:  140
+79.7
+Procent poprawnych: numer serii:  141
+79.60000000000001
+Procent poprawnych: numer serii:  142
+81.8
+Procent poprawnych: numer serii:  143
+80.10000000000001
+Procent poprawnych: numer serii:  144
+80.4
+Procent poprawnych: numer serii:  145
+79.7
+Procent poprawnych: numer serii:  146
+79.10000000000001
+Procent poprawnych: numer serii:  147
+77.60000000000001
+Procent poprawnych: numer serii:  148
+79.80000000000001
+Procent poprawnych: numer serii:  149
+80.60000000000001
+Procent poprawnych: numer serii:  150
+81.5
+Procent poprawnych: numer serii:  151
+79.7
+Procent poprawnych: numer serii:  152
+80.5
+Procent poprawnych: numer serii:  153
+79.5
+Procent poprawnych: numer serii:  154
+81.89999999999999
+Procent poprawnych: numer serii:  155
+80.7
+Procent poprawnych: numer serii:  156
+82.39999999999999
+Procent poprawnych: numer serii:  157
+79.0
+Procent poprawnych: numer serii:  158
+80.5
+Procent poprawnych: numer serii:  159
+80.60000000000001
+Procent poprawnych: numer serii:  160
+78.4
+Procent poprawnych: numer serii:  161
+79.7
+Procent poprawnych: numer serii:  162
+80.9
+Procent poprawnych: numer serii:  163
+81.6
+Procent poprawnych: numer serii:  164
+80.80000000000001
+Procent poprawnych: numer serii:  165
+79.80000000000001
+Procent poprawnych: numer serii:  166
+82.1
+Procent poprawnych: numer serii:  167
+79.4
+Procent poprawnych: numer serii:  168
+80.7
+Procent poprawnych: numer serii:  169
+81.8
+Procent poprawnych: numer serii:  170
+81.39999999999999
+Procent poprawnych: numer serii:  171
+80.0
+Procent poprawnych: numer serii:  172
+80.80000000000001
+Procent poprawnych: numer serii:  173
+82.6
+Procent poprawnych: numer serii:  174
+80.80000000000001
+Procent poprawnych: numer serii:  175
+81.0
+Procent poprawnych: numer serii:  176
+79.3
+Procent poprawnych: numer serii:  177
+80.5
+Procent poprawnych: numer serii:  178
+81.39999999999999
+Procent poprawnych: numer serii:  179
+80.80000000000001
+Procent poprawnych: numer serii:  180
+80.5
+Procent poprawnych: numer serii:  181
+79.9
+Procent poprawnych: numer serii:  182
+80.9
+Procent poprawnych: numer serii:  183
+83.0
+Procent poprawnych: numer serii:  184
+81.10000000000001
+Procent poprawnych: numer serii:  185
+82.3
+Procent poprawnych: numer serii:  186
+81.5
+Procent poprawnych: numer serii:  187
+81.6
+Procent poprawnych: numer serii:  188
+80.60000000000001
+Procent poprawnych: numer serii:  189
+81.0
+Procent poprawnych: numer serii:  190
+82.3
+Procent poprawnych: numer serii:  191
+82.0
+Procent poprawnych: numer serii:  192
+81.2
+Procent poprawnych: numer serii:  193
+79.80000000000001
+Procent poprawnych: numer serii:  194
+82.3
+Procent poprawnych: numer serii:  195
+82.5
+Procent poprawnych: numer serii:  196
+81.69999999999999
+Procent poprawnych: numer serii:  197
+81.10000000000001
+Procent poprawnych: numer serii:  198
+82.0
+Procent poprawnych: numer serii:  199
+81.69999999999999
+Procent poprawnych: numer serii:  200
+81.2
+Procent poprawnych: numer serii:  201
+81.8
+Procent poprawnych: numer serii:  202
+82.5
+Procent poprawnych: numer serii:  203
+82.69999999999999
+Procent poprawnych: numer serii:  204
+81.39999999999999
+Procent poprawnych: numer serii:  205
+83.5
+Procent poprawnych: numer serii:  206
+80.80000000000001
+Procent poprawnych: numer serii:  207
+84.1
+Procent poprawnych: numer serii:  208
+82.19999999999999
+Procent poprawnych: numer serii:  209
+82.6
+Procent poprawnych: numer serii:  210
+81.89999999999999
+Procent poprawnych: numer serii:  211
+83.39999999999999
+Procent poprawnych: numer serii:  212
+83.89999999999999
+Procent poprawnych: numer serii:  213
+80.10000000000001
+Procent poprawnych: numer serii:  214
+83.0
+Procent poprawnych: numer serii:  215
+83.5
+Procent poprawnych: numer serii:  216
+81.0
+Procent poprawnych: numer serii:  217
+84.2
+Procent poprawnych: numer serii:  218
+84.1
+Procent poprawnych: numer serii:  219
+82.39999999999999
+Procent poprawnych: numer serii:  220
+84.5
+Procent poprawnych: numer serii:  221
+83.1
+Procent poprawnych: numer serii:  222
+84.3
+Procent poprawnych: numer serii:  223
+82.39999999999999
+Procent poprawnych: numer serii:  224
+83.39999999999999
+Procent poprawnych: numer serii:  225
+80.60000000000001
+Procent poprawnych: numer serii:  226
+83.0
+Procent poprawnych: numer serii:  227
+82.39999999999999
+Procent poprawnych: numer serii:  228
+82.5
+Procent poprawnych: numer serii:  229
+84.6
+Procent poprawnych: numer serii:  230
+82.19999999999999
+Procent poprawnych: numer serii:  231
+85.6
+Procent poprawnych: numer serii:  232
+84.2
+Procent poprawnych: numer serii:  233
+83.3
+Procent poprawnych: numer serii:  234
+84.8
+Procent poprawnych: numer serii:  235
+82.5
+Procent poprawnych: numer serii:  236
+84.3
+Procent poprawnych: numer serii:  237
+81.8
+Procent poprawnych: numer serii:  238
+84.2
+Procent poprawnych: numer serii:  239
+84.0
+Procent poprawnych: numer serii:  240
+86.9
+Procent poprawnych: numer serii:  241
+82.69999999999999
+Procent poprawnych: numer serii:  242
+82.69999999999999
+Procent poprawnych: numer serii:  243
+80.7
+Procent poprawnych: numer serii:  244
+82.1
+Procent poprawnych: numer serii:  245
+85.1
+Procent poprawnych: numer serii:  246
+82.0
+Procent poprawnych: numer serii:  247
+85.2
+Procent poprawnych: numer serii:  248
+83.0
+Procent poprawnych: numer serii:  249
+83.7
+Procent poprawnych: numer serii:  250
+84.3
+Procent poprawnych: numer serii:  251
+85.39999999999999
+Procent poprawnych: numer serii:  252
+83.7
+Procent poprawnych: numer serii:  253
+83.39999999999999
+Procent poprawnych: numer serii:  254
+85.2
+Procent poprawnych: numer serii:  255
+83.2
+Procent poprawnych: numer serii:  256
+85.1
+Procent poprawnych: numer serii:  257
+81.6
+Procent poprawnych: numer serii:  258
+84.0
+Procent poprawnych: numer serii:  259
+83.8
+Procent poprawnych: numer serii:  260
+83.7
+Procent poprawnych: numer serii:  261
+82.5
+Procent poprawnych: numer serii:  262
+82.8
+Procent poprawnych: numer serii:  263
+81.5
+Procent poprawnych: numer serii:  264
+83.1
+Procent poprawnych: numer serii:  265
+84.5
+Procent poprawnych: numer serii:  266
+84.39999999999999
+Procent poprawnych: numer serii:  267
+84.89999999999999
+Procent poprawnych: numer serii:  268
+83.89999999999999
+Procent poprawnych: numer serii:  269
+85.2
+Procent poprawnych: numer serii:  270
+82.19999999999999
+Procent poprawnych: numer serii:  271
+84.39999999999999
+Procent poprawnych: numer serii:  272
+85.39999999999999
+Procent poprawnych: numer serii:  273
+82.3
+Procent poprawnych: numer serii:  274
+84.1
+Procent poprawnych: numer serii:  275
+85.2
+Procent poprawnych: numer serii:  276
+83.39999999999999
+Procent poprawnych: numer serii:  277
+84.8
+Procent poprawnych: numer serii:  278
+84.1
+Procent poprawnych: numer serii:  279
+84.5
+Procent poprawnych: numer serii:  280
+83.1
+Procent poprawnych: numer serii:  281
+83.7
+Procent poprawnych: numer serii:  282
+85.1
+Procent poprawnych: numer serii:  283
+84.2
+Procent poprawnych: numer serii:  284
+85.1
+Procent poprawnych: numer serii:  285
+85.5
+Procent poprawnych: numer serii:  286
+84.6
+Procent poprawnych: numer serii:  287
+84.0
+Procent poprawnych: numer serii:  288
+83.8
+Procent poprawnych: numer serii:  289
+85.2
+Procent poprawnych: numer serii:  290
+84.7
+Procent poprawnych: numer serii:  291
+85.2
+Procent poprawnych: numer serii:  292
+84.3
+Procent poprawnych: numer serii:  293
+86.1
+Procent poprawnych: numer serii:  294
+85.5
+Procent poprawnych: numer serii:  295
+85.5
+Procent poprawnych: numer serii:  296
+85.1
+Procent poprawnych: numer serii:  297
+85.39999999999999
+Procent poprawnych: numer serii:  298
+83.5
+Procent poprawnych: numer serii:  299
+84.39999999999999
+Procent poprawnych: numer serii:  300
+85.9
+Procent poprawnych: numer serii:  301
+84.3
+Procent poprawnych: numer serii:  302
+84.6
+Procent poprawnych: numer serii:  303
+85.39999999999999
+Procent poprawnych: numer serii:  304
+85.0
+Procent poprawnych: numer serii:  305
+86.6
+Procent poprawnych: numer serii:  306
+87.9
+Procent poprawnych: numer serii:  307
+85.7
+Procent poprawnych: numer serii:  308
+85.39999999999999
+Procent poprawnych: numer serii:  309
+85.5
+Procent poprawnych: numer serii:  310
+84.7
+Procent poprawnych: numer serii:  311
+86.5
+Procent poprawnych: numer serii:  312
+85.2
+Procent poprawnych: numer serii:  313
+85.3
+Procent poprawnych: numer serii:  314
+86.0
+Procent poprawnych: numer serii:  315
+86.0
+Procent poprawnych: numer serii:  316
+83.0
+Procent poprawnych: numer serii:  317
+84.89999999999999
+Procent poprawnych: numer serii:  318
+84.7
+Procent poprawnych: numer serii:  319
+83.8
+Procent poprawnych: numer serii:  320
+86.7
+Procent poprawnych: numer serii:  321
+85.5
+Procent poprawnych: numer serii:  322
+84.5
+Procent poprawnych: numer serii:  323
+86.3
+Procent poprawnych: numer serii:  324
+85.3
+Procent poprawnych: numer serii:  325
+85.5
+Procent poprawnych: numer serii:  326
+84.2
+Procent poprawnych: numer serii:  327
+87.8
+Procent poprawnych: numer serii:  328
+85.1
+Procent poprawnych: numer serii:  329
+86.3
+Procent poprawnych: numer serii:  330
+85.8
+Procent poprawnych: numer serii:  331
+83.1
+Procent poprawnych: numer serii:  332
+84.39999999999999
+Procent poprawnych: numer serii:  333
+87.3
+Procent poprawnych: numer serii:  334
+86.6
+Procent poprawnych: numer serii:  335
+84.7
+Procent poprawnych: numer serii:  336
+86.4
+Procent poprawnych: numer serii:  337
+87.0
+Procent poprawnych: numer serii:  338
+85.2
+Procent poprawnych: numer serii:  339
+86.0
+Procent poprawnych: numer serii:  340
+87.4
+Procent poprawnych: numer serii:  341
+84.2
+Procent poprawnych: numer serii:  342
+86.4
+Procent poprawnych: numer serii:  343
+85.1
+Procent poprawnych: numer serii:  344
+86.8
+Procent poprawnych: numer serii:  345
+84.8
+Procent poprawnych: numer serii:  346
+86.0
+Procent poprawnych: numer serii:  347
+85.8
+Procent poprawnych: numer serii:  348
+84.7
+Procent poprawnych: numer serii:  349
+86.5
+Testowe Dane:
+Procent poprawnych: 
+85.56
+Operation took:
+101.63830947875977 seconds

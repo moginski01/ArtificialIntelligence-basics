@@ -1,0 +1,105 @@
+Log dla zbioru 1000 treningowych danych i 10000 testowych danych
+procent poprawnych iteracja 0 : 
+21.099999999999998
+procent poprawnych iteracja 1 : 
+35.9
+procent poprawnych iteracja 2 : 
+42.699999999999996
+procent poprawnych iteracja 3 : 
+51.9
+procent poprawnych iteracja 4 : 
+56.39999999999999
+procent poprawnych iteracja 5 : 
+60.6
+procent poprawnych iteracja 6 : 
+65.9
+procent poprawnych iteracja 7 : 
+67.80000000000001
+procent poprawnych iteracja 8 : 
+71.39999999999999
+procent poprawnych iteracja 9 : 
+71.2
+procent poprawnych iteracja 10 : 
+72.89999999999999
+procent poprawnych iteracja 11 : 
+73.4
+procent poprawnych iteracja 12 : 
+75.7
+procent poprawnych iteracja 13 : 
+76.2
+procent poprawnych iteracja 14 : 
+78.3
+procent poprawnych iteracja 15 : 
+79.0
+procent poprawnych iteracja 16 : 
+78.3
+procent poprawnych iteracja 17 : 
+79.4
+procent poprawnych iteracja 18 : 
+80.0
+procent poprawnych iteracja 19 : 
+81.8
+procent poprawnych iteracja 20 : 
+80.60000000000001
+procent poprawnych iteracja 21 : 
+81.89999999999999
+procent poprawnych iteracja 22 : 
+82.39999999999999
+procent poprawnych iteracja 23 : 
+82.6
+procent poprawnych iteracja 24 : 
+83.2
+procent poprawnych iteracja 25 : 
+82.69999999999999
+procent poprawnych iteracja 26 : 
+84.1
+procent poprawnych iteracja 27 : 
+83.39999999999999
+procent poprawnych iteracja 28 : 
+83.7
+procent poprawnych iteracja 29 : 
+83.89999999999999
+procent poprawnych iteracja 30 : 
+85.8
+procent poprawnych iteracja 31 : 
+84.3
+procent poprawnych iteracja 32 : 
+84.89999999999999
+procent poprawnych iteracja 33 : 
+85.5
+procent poprawnych iteracja 34 : 
+85.0
+procent poprawnych iteracja 35 : 
+85.6
+procent poprawnych iteracja 36 :
+85.39999999999999
+procent poprawnych iteracja 37 :
+85.1
+procent poprawnych iteracja 38 :
+85.1
+procent poprawnych iteracja 39 :
+85.5
+procent poprawnych iteracja 40 :
+86.7
+procent poprawnych iteracja 41 :
+86.5
+procent poprawnych iteracja 42 :
+86.2
+procent poprawnych iteracja 43 :
+86.4
+procent poprawnych iteracja 44 :
+87.1
+procent poprawnych iteracja 45 :
+87.4
+procent poprawnych iteracja 46 :
+87.8
+procent poprawnych iteracja 47 : 
+88.2
+procent poprawnych iteracja 48 :
+87.7
+procent poprawnych iteracja 49 :
+88.1
+procent poprawnych dane testowe:
+83.8
+Operation took:
+316.57520818710327 seconds
